@@ -93,7 +93,16 @@
   margin-inline: -3.4rem
   @media screen and (max-width: 992px)
     background-size: cover
-    margin-inline: -1.4rem 
+    margin-inline: -1.4rem
+.fondo-t3
+  background: url('../assets/curso/temas/t3/fondo.png')
+  background-position: 100% 65%
+  background-size: 100% 88%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    background-size: cover
+    margin-inline: -1.4rem  
 .fondo-t10
   background: url('../assets/curso/temas/t10/fondo.png')
   background-position: center top
@@ -110,11 +119,17 @@
   background-color: #DEF8F8
 .bg-blue2
   background-color: #E5FDFD
+.bg-gray
+  background-color: #F6F6F6
 .bg-color-primario
   background-color: #FF6E33
+.bg-acento-contenido
+  background-color: #9B1F36  
 
 .t-red
   color: #9F0925
+.em 
+  font-style: italic
 
 .colum-10
   width: 10%
@@ -122,6 +137,8 @@
   width: 20%
 .colum-21
   width: 21%
+.colum-40
+  width: 40%
 .colum-60
   width: 60%
 .tabla-a.t12 th
@@ -151,5 +168,20 @@
 
 ul.lista-ul--color.color-azul i
   color: #12263F  
-  font-size: 10px
-  padding-top: 3px
+  font-size: 9px
+  padding-top: 4px
+ul.lista-ul--color.color-azul.t3 i
+  color: #12263F  
+  font-size: 7px
+  padding-top: 5px
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.pasos-a.t3 .text-end
+  text-align: left !important
