@@ -50,7 +50,7 @@
               img(src='@/assets/curso/temas/t8/fig.svg' alt='La figura presenta un un esquema Kanban y cada uno de sus procesos.')
             figcaption.mt-3 Nota. Tomado y adaptado de Hernández y Vizán (2013). 
     
-    .cajon.color-secundario.p-4.mb-5
+    .cajon.color-secundario.p-4.mb-5(data-aos="fade-down")
       p.mb-0 Para realizar una ampliación conceptual se sugiere leer el Capítulo 3 – Módulo III del libro Lean Manufacturing, la evidencia de una necesidad, el cual se encuentra en el material complementario
 
 

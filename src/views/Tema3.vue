@@ -110,7 +110,7 @@
               | Moral alta del trabajador
   
 
-    .row.fondo-t3.align-items-center.pt-5.mb-5 
+    .row.fondo-t3.align-items-center.pt-5
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center
 
@@ -237,7 +237,7 @@
                   img.px-md-3(src='@/assets/curso/temas/t3/linea5.png', alt='')
 
           .col-md-12
-            .cajon.color-acento-contenido.p-4.mb-5
+            .cajon.color-acento-contenido.p-4.mb-4
               p.mb-0 Para realizar una ampliación conceptual, se sugiere leer el Capítulo 3 del libro 
                 b.em Lean Manufacturing
                 b , la evidencia de una necesidad, 
