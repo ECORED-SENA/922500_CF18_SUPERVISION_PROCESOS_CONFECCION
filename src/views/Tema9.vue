@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 9
-      h1 JIDOKA
+      h1 #[em JIDOKA]
 
-    .row.mb-2
-      .col-md-5.mb-4(data-aos="fade-right")
+    .row.mb-2.justify-content-center
+      .col-lg-5.col-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t9/img.png' alt='')
-      .col-md-7.mb-4(data-aos="fade-left")
-        p Es un término japonés, implementado en la metodología de Lean Manufacturing, que significa automatización con un toque humano o autonomación. Este concepto define el sistema de control autónomo y se basa en un control de calidad a lo largo de la línea de producción, con el propósito de evidenciar productos defectuosos en la línea y parar la producción si se hace necesario, y retirar manual o automáticamente dichos productos y así cortar la causa del problema de raíz; es decir está basado en la producción de piezas con “cero defectos” y la fabricación de productos con el 100 % de alta calidad.
+      .col-lg-7.mb-4(data-aos="fade-left")
+        p Es un término japonés, implementado en la metodología de #[em Lean Manufacturing], que significa automatización con un toque humano o autonomación. Este concepto define el sistema de control autónomo y se basa en un control de calidad a lo largo de la línea de producción, con el propósito de evidenciar productos defectuosos en la línea y parar la producción si se hace necesario, y retirar manual o automáticamente dichos productos y así cortar la causa del problema de raíz; es decir está basado en la producción de piezas con “cero defectos” y la fabricación de productos con el 100 % de alta calidad.
         h5 Esta estrategia genera un proceso de inspección de calidad, donde empleados de la línea y los inspectores de calidad se fusionan sin distinción; logrando que cada operario garantice la calidad de su trabajo, controlando con mayor interés el proceso que el producto, erradicando defectos en la producción.
 
     .cajon.color-secundario.p-4.mb-5(data-aos="fade-down")
@@ -20,9 +20,9 @@
     p.mb-4(data-aos="fade") La siguiente tabla, muestra los pasos progresivos y técnicas concretas que se pueden ir aplicando para alcanzar una autonomación completa en las máquinas.
 
     .row.justify-content-center(data-aos="fade-down")
-      .col-md-10
+      .col-lg-10
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Tabla 4.] Las 10 etapas de la automatización (Jidoka)
+          p.mb-0 #[b Tabla 4.] Las 10 etapas de la automatización (#[em Jidoka])
         .tabla-a.color-acento-contenido.mb-5 
           table
             caption.mt-3 
@@ -37,7 +37,7 @@
                 td.text-center 1
                 td 
                   p.mb-0.fw-bold Autonomación del proceso
-                  p.mb-0 Transferir esfuerzo de operario en esfuerzo de la máquina. Ejemplo: Atornillado automático.
+                  p.mb-0 Transferir esfuerzo de operario en esfuerzo de la máquina. Ejemplo: atornillado automático.
                 td.text-center(rowspan="3") Operaciones simultáneas operario/ maquina.
               tr
                 td.text-center 2
@@ -68,7 +68,7 @@
               tr
                 td.text-center 7
                 td 
-                  p.mb-0.fw-bold Mecanismos anti-error (Poka-Yoke)
+                  p.mb-0.fw-bold Mecanismos anti-error (#[em Poka-Yoke])
                   p.mb-0 Para prevenir transferencia de piezas defectuosas al proceso siguiente se instalan dispositivos para detectar errores, parar la producción y alertar al operario.
               tr
                 td.text-center 8

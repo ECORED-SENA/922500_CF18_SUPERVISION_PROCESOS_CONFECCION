@@ -22,21 +22,21 @@
     p.mb-4(data-aos="fade") Basados en los postulados de Cuatrecasas & Torrell, (2010), se puede definir que los objetivos del TPM se implementan desde tres aspectos: 
     
     .row.fondo-t4.align-items-center.py-5.mb-5
-      .col-lg-12.col-12.px-lg-5.px-4
+      .col-lg-12.col-12.px-lg-5.px-3
         .row.justify-content-center.align-items-center
 
           .row
-            .col-md-3.mb-4.mb-md-0(data-aos="fade-right")
+            .col-lg-3.d-none.d-lg-block.mb-4.mb-md-0(data-aos="fade-right")
               img(src='@/assets/curso/temas/t4/img2.png' alt='')
-            .col-md-3.mb-4.mb-md-0(data-aos="fade-left")
+            .col-lg-3.col-md-4.mb-4.mb-md-0(data-aos="fade-left")
               .h-100.bg-white.box-shadow.p-4 
                 h4.t-red Objetivos estratégicos
                 p.mb-0 Basado en la gestión del conocimiento, reducción de costos y calidad en la capacidad de respuesta, se desarrolla ventajas competitivas frente al mercado, potenciando la eficiencia del proceso de producción.
-            .col-md-3.mb-4.mb-md-0(data-aos="fade-left")
+            .col-lg-3.col-md-4.mb-4.mb-md-0(data-aos="fade-left")
               .h-100.bg-white.box-shadow.p-4 
                 h4.t-red Objetivos operativos
                 p.mb-0 Basados en la eliminación de fallas y perdidas, maximizando la capacidad instalada de los equipos y aumentando la calidad del producto, se busca incrementar la fiabilidad de los equipos.
-            .col-md-3.mb-4.mb-md-0(data-aos="fade-left")
+            .col-lg-3.col-md-4.mb-4.mb-md-0(data-aos="fade-left")
               .h-100.bg-white.box-shadow.p-4 
                 h4.t-red Objetivos organizativos
                 p.mb-0 Generando un ambiente de trabajo agradable, productivo y creativo, se fortalece el trabajo en equipo y autónomo de grupos generando ideas de mejora.
@@ -45,8 +45,8 @@
     h3.t-red(data-aos="fade") Pilares de TPM
     p.mb-4(data-aos="fade") La cultura de TPM se implementa en todos los procesos de la organización y sus pilares están conformados por procesos, el TPM funda su sistema de mejora continua en 8 pilares, cuya implementación garantiza la obtención de mejora en los procesos productivos de la organización, como se observa a continuación.
 
-    .row.mb-2
-      .col-md-7.mb-4(data-aos="fade-right")
+    .row.mb-2.justify-content-center
+      .col-lg-7.mb-4(data-aos="fade-right")
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-6")
           .row(titulo="Mantenimiento autónomo")
             .col-md-11
@@ -60,13 +60,13 @@
           .row(titulo="Polivalencia y desarrollo de habilidades")
             .col-md-11
               p Los procesos de educación, formación y adestramiento, son claves e imprescindibles para los cambios continuos que se generan a nivel empresarial. Este pilar se basa en propósito de aumentar las capacidades y desarrollar habilidades en los empleados a partir dichas estrategias formativas.
-      .col-md-5.mb-4(data-aos="fade-left")
+      .col-lg-5.col-9.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t4/img3.png' alt='')
 
-    .row.mb-4
-      .col-md-5.mb-4(data-aos="fade-right")
+    .row.mb-4.justify-content-center
+      .col-lg-5.col-9.order-lg-1.order-2.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t4/img4.png' alt='')
-      .col-md-7.mb-4(data-aos="fade-left")
+      .col-lg-7.order-lg-2.order-1.mb-4(data-aos="fade-left")
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-6")
           .row(titulo="Mantenimiento de calidad ")
             .col-md-11

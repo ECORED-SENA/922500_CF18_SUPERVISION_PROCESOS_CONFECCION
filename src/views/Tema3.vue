@@ -7,11 +7,11 @@
         span 3
       h1 Filosofía 5S
 
-    .row.mb-2
-      .col-md-6.mb-4(data-aos="fade-right")
+    .row.justify-content-center.mb-2
+      .col-lg-6.mb-4(data-aos="fade-right")
         p Es una metodología japonesa, incluida dentro de la filosofía KAIZEN, que se implementa dentro de los sistemas de calidad total, buscando potenciar una cultura de calidad en las organizaciones. Su punto de acción está enmarcado en el desarrollo de un ambiente eficiente, agradable y saludable de trabajo, a partir del desempeño correcto y organizando diariamente las operaciones, logrando así potenciar significativamente en los estándares de calidad, de precio y condiciones requeridos por el cliente.
-        h5 Se puede definir esta metodología como: una herramienta mundialmente conocida, implantada inicialmente en las industrias japonesas, gracias al impacto y cambio que generan tanto en las empresas como en las personas que la desarrollan; se centran en potenciar el aprendizaje de las personas que trabajan en las organizaciones gracias a su simplicidad y agilidad por realizar pequeños cambios y mejoras con el fin de experimentar y aprender con ellas. (Aldavert, Vidal, Lorente, & Aldavert, 2016. p. 15)
-      .col-md-6.mb-4(data-aos="fade-left")
+        h5 Se puede definir esta metodología como: "una herramienta mundialmente conocida, implantada inicialmente en las industrias japonesas, gracias al impacto y cambio que generan tanto en las empresas como en las personas que la desarrollan; se centran en potenciar el aprendizaje de las personas que trabajan en las organizaciones gracias a su simplicidad y agilidad por realizar pequeños cambios y mejoras con el fin de experimentar y aprender con ellas". (Aldavert, Vidal, Lorente, & Aldavert, 2016. p. 15)
+      .col-lg-6.col-10.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/img.png' alt='')
     
     .cajon.color-acento-contenido.p-4.mb-5
@@ -64,7 +64,7 @@
     p.mb-4(data-aos="fade") Con esta metodología se logra diseñar y conservar en el tiempo espacios físicos de trabajo ordenados, limpios, seguros y agradables que faciliten el trabajo digno y arrojen como resultado productos y servicios de calidad. Las empresas pueden solucionar, espacios repletos de piezas, el desorden interno, exceso de inventario, exceso de artículos y máquinas, uso racional de recursos espacios repletos de piezas de repuestos y herramientas, accidentalidad, equipos sucios. Al implementar las 5S, se logra: 
 
     .row.justify-content-center
-      .col-md-5.mb-4
+      .col-lg-5.col-md-6.mb-4
         .bg-gray.p-4.mb-4.h-100
           h3 PARA LA INSTITUCIÓN
           ul.lista-ul--color.color-azul.t3.mb-0
@@ -86,7 +86,7 @@
             li.mb-0
               i.fas.fa-circle
               | Mejorar la imagen
-      .col-md-5.mb-4 
+      .col-lg-5.col-md-6.mb-4 
         .bg-gray.p-4.mb-4.h-100
           h3 PARA EL RECURSO HUMANO
           ul.lista-ul--color.color-azul.t3.mb-0
@@ -118,8 +118,8 @@
 
           .fondo-bloque.p-4.mb-5(data-aos="fade-down")
             .row 
-              .col-md-2.px-md-4
-                img.px-md-4(src='@/assets/curso/temas/t3/ico.svg' alt='')
+              .col-md-2.px-lg-4.mb-3.mb-md-0
+                img.px-lg-4(src='@/assets/curso/temas/t3/ico.svg' alt='' style="max-width: 155px;")
               .col-md-10
                 p Para la implementación de esta filosofía es necesario contar con el compromiso de la dirección y establecer: 
                 ul.lista-ul--color.color-azul
@@ -164,7 +164,7 @@
                 .col-md-5.mb-4.mb-md-0
                   img.px-md-3(src='@/assets/curso/temas/t3/linea2.png', alt='')
                 .col-md-7
-                  h5 Suprimir la suciedad 
+                  h5 Situar lo necesario, organizar
                   p Objetivo: tener un lugar de trabajo limpio y eliminar las fuentes de desperdicio.
                   h5.mb-0 ¿Qué es?
                   ul.lista-ul--color.color-azul.fa-ul

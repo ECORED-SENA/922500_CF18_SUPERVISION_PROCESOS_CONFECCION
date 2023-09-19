@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Pensamiento <em>Lean Manufacturing</em>',
     descripcionCurso:
-      'El pensamiento <em>Lean Manufacturing</em> o Sistema esbelto, desarrolla actividades en los procesos de manufactura, de mejora continua, y se conoce como filosofía KAIZEN. Apoyado en otras herramientas, aplica estas estrategias en el flujo de la producción para la eliminación de las mudas o desperdicios y corrige sistemáticamente, todas las pérdidas que resulten de las ineficiencias de los actuales procesos.',
+      'El pensamiento <em>Lean Manufacturing</em> o Sistema Esbelto, desarrolla actividades en los procesos de manufactura, de mejora continua, y se conoce como filosofía KAIZEN. Apoyado en otras herramientas, aplica estas estrategias en el flujo de la producción para la eliminación de las mudas o desperdicios y corrige sistemáticamente, todas las pérdidas que resulten de las ineficiencias de los actuales procesos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -71,13 +71,13 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'POKA YOKE',
+        titulo: '<em>POKA YOKE</em>',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'JUST IN TIME (Justo a tiempo)',
+        titulo: '<em>JUST IN TIME</em> (Justo a tiempo)',
         desarrolloContenidos: true,
       },
       {
@@ -89,13 +89,13 @@ export default {
       {
         nombreRuta: 'tema9',
         numero: '9',
-        titulo: 'JIDOKA',
+        titulo: '<em>JIDOKA</em>',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema10',
         numero: '10',
-        titulo: 'HEIJUNKA',
+        titulo: '<em>HEIJUNKA</em>',
         desarrolloContenidos: true,
       },
       {
@@ -107,13 +107,13 @@ export default {
       {
         nombreRuta: 'tema12',
         numero: '12',
-        titulo: 'Implementación de sistema Push-Pull',
+        titulo: 'Implementación de sistema <em>Push-Pull</em>',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema13',
         numero: '13',
-        titulo: 'Lean Six Sigma',
+        titulo: '<em>Lean Six Sigma</em>',
         desarrolloContenidos: true,
       },
     ],
@@ -165,7 +165,7 @@ export default {
   complementario: [
     {
       tema:
-        'Pensamiento <em>Lean Manufacturing</em> <br> Filosofía 5S <br> (SMED) Cambio Rápido De Modelo <br> KANBAN <br> HEIJUNKA',
+        'Pensamiento <em>Lean Manufacturing</em> <br> Filosofía 5S <br> (SMED) Cambio Rápido De Modelo <br> KANBAN <br> <em>HEIJUNKA</em>',
       referencia:
         'Rajadell Carreras, M. (2012). <em>Lean Manufacturing, la evidencia de una necesidad</em>. Ediciones Díaz de Santos. ',
       tipo: 'Base de datos Biblioteca SENA – eLibro',
@@ -173,30 +173,28 @@ export default {
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/53016?page=131',
     },
     {
-      tema: 'POKA YOKE',
+      tema: '<em>POKA YOKE</em>',
       referencia:
-        'Castillo, L. (2021). <em>POKA YOKE Confección industrial textil. Ejemplos y pasos de aplicación</em> [video]. YouTube.',
+        'Castillo, L. (2021). <em>POKA YOKE Confección industrial textil. Ejemplos y pasos de aplicación</em>',
       tipo: 'Video',
       link: 'https://youtu.be/sZnGE2NsxlE',
     },
     {
-      tema: 'JUST IN TIME (Justo a tiempo)',
-      referencia:
-        'Lean Culture. (2019). <em>Producción Justo a Tiempo</em> [video]. YouTube. ',
+      tema: '<em>JUST IN TIME</em> (Justo a tiempo)',
+      referencia: 'Lean Culture. (2019). <em>Producción Justo a Tiempo</em> ',
       tipo: 'Video',
       link: 'https://youtu.be/7asw6qgY9hE',
     },
     {
-      tema: 'Implementación de sistema Push-Pull',
-      referencia:
-        'SENA. (2015). <em>Confección Lean Manufacturing</em> [video]. YouTube.',
+      tema: 'Implementación de sistema <em>Push-Pull</em>',
+      referencia: 'SENA. (2015). <em>Confección Lean Manufacturing</em>',
       tipo: 'Video',
       link: 'https://youtu.be/CJdTlzDa2n4',
     },
     {
-      tema: 'Implementación de sistema Push-Pull',
+      tema: 'Implementación de sistema <em>Push-Pull</em>',
       referencia:
-        'Lean Kin. (2019) 7. <em>Just in Time (JIT) - Método Pull vs Push. Principios Lean Manufacturing IV | Cursos Lean Thinking</em> [video]. YouTube.',
+        'Lean Kin. (2019) 7. <em>Just in Time (JIT) - Método Pull vs Push. Principios Lean Manufacturing IV | Cursos Lean Thinking</em>',
       tipo: 'Video',
       link: 'https://youtu.be/TH19SBVibDQ',
     },
@@ -218,7 +216,7 @@ export default {
         'Defectos por millón de oportunidades (DPMO) es el número de defectos en una muestra. El DPMO estandariza el número de defectos en el nivel de oportunidad y es útil porque permite comparar procesos con diferentes complejidades.',
     },
     {
-      termino: 'Niveles de inventario o stock',
+      termino: 'Niveles de inventario o <em>stock</em>',
       significado:
         'Es el control de la cantidad óptima de producción que debe realizar una planta para evitar el exceso de prendas.',
     },
@@ -228,9 +226,9 @@ export default {
         'Proceso equilibrado donde el flujo de las prendas sigue una secuencia operacional con cambios rápidos de referencia, contando siempre con los mínimos recursos para obtener la producción deseada.',
     },
     {
-      termino: 'HEIJUNKA',
+      termino: '<em>HEIJUNKA</em>',
       significado:
-        'Sistema de producción lean que mejora la logística en una empresa.',
+        'Sistema de producción <em>lean</em> que mejora la logística en una empresa.',
     },
     {
       termino: 'Programación nivelada',
@@ -238,9 +236,9 @@ export default {
         'Programación de la producción que fabrica en lotes pequeños por secuenciación.',
     },
     {
-      termino: 'Toyota Production System (TPS)',
+      termino: '<em>Toyota Production System</em> (TPS)',
       significado:
-        'Son las siglas y se centra en la eliminación completa de los residuos del proceso de fabricación, y es el progenitor de la manufactura esbelta o Lean Manufacturing.',
+        'Son las siglas y se centra en la eliminación completa de los residuos del proceso de fabricación, y es el progenitor de la manufactura esbelta o <em>Lean Manufacturing</em>.',
     },
   ],
   referencias: [

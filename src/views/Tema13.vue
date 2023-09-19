@@ -5,35 +5,35 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 13
-      h1 Lean Six Sigma
+      h1 #[em Lean Six Sigma]
 
     .row.fondo-rosa.align-items-center.py-5.mb-5 
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center
 
-          .col-md-7.mb-4(data-aos="fade-right")
+          .col-lg-7.mb-4(data-aos="fade-right")
             p De acuerdo con Snee (2010), es un enfoque de mejora que ha tenido gran acogida gracias a su capacidad para dar solución efectiva a muchos de los problemas que enfrentan las organizaciones hoy (p.9). Por esta razón, grandes empresas a nivel mundial han implementado este enfoque como una estrategia de negocios para mejorar la calidad de los productos y servicios, mejorar la eficiencia de los procesos, aumentar la satisfacción del cliente y aumentar la rentabilidad según Kumar (2006).
-            p Six Sigma es una metodología compuesta por cinco fases de acuerdo con Antony et al (2005, p.860) son: “Definir, Medir, Analizar, Mejorar y Controlar, comúnmente llamada DMAIC, por sus siglas en inglés (
+            p #[em Six Sigma] es una metodología compuesta por cinco fases de acuerdo con Antony et al (2005, p.860) son: “Definir, Medir, Analizar, Mejorar y Controlar, comúnmente llamada DMAIC, por sus siglas en inglés (
                 em Define, Measure, Analize, Improve, Control
                 | ), y tiene como objetivo aumentar la capacidad de los procesos, de tal forma que estos generen solo 3,4 defectos por millón de oportunidades (DPMO), con lo que los errores o fallas se hacen prácticamente imperceptibles para el cliente”. 
-          .col-md-5.mb-4(data-aos="fade-left")
+          .col-lg-5.col-10.mb-4(data-aos="fade-left")
             img(src='@/assets/curso/temas/t13/img.png' alt='')
 
     
-    h3.t-red(data-aos="fade") Ejecución de Six sigma 
+    h3.t-red(data-aos="fade") Ejecución de #[em Six sigma] 
     p.mb-4(data-aos="fade") Las empresas de confección ejecutan y hacen seguimiento a los proyectos previamente seleccionados, por las otras herramientas que se implementan en Lean Manufacturing y se utiliza la metodología DMAIC de Six Sigma, es decir, Definir, Medir, Analizar, Mejorar y Controlar, en la siguiente figura se presenta el proceso genérico para la ejecución de un proyecto LSS (Lean Six sigma) (ver figura).
     
     .bg-1.p-4.mb-5
       .row.justify-content-center   
-        .col-md-10(data-aos="fade-down")
+        .col-lg-10(data-aos="fade-down")
           .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 6.] Proceso genérico de la ejecución de un proyecto LSS
           figure
-            img(src='@/assets/curso/temas/t13/fig.svg' alt='La figura presenta el proceso genérico de la ejecución de un proyecto LSS. Comienza con definir (caracterización del proyecto), luego viene el medir (definición de línea base), continúa con el analizar (identificación de causa raíz), sigue con el mejorar (definición de acciones de mejoras), para finalizar con el controlar (control y mantenimiento de las mejoras).')
+            img(src='@/assets/curso/temas/t13/fig6.svg' alt='Se presenta el proceso genérico de una ejecución de un proyecto LSS, desde el inicio hasta el fin, pasando por las etapas definir, medir, analizar, mejorar y controlar.')
           figcaption.mt-3 Nota. Tomado de Felizzola, et al (2014). 
 
     .row.justify-content-center
-      .col-md-10
+      .col-lg-10
         .bg-blue.p-4     
           .row 
             .col-md-2

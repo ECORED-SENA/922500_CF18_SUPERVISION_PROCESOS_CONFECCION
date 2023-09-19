@@ -7,11 +7,11 @@
         span 2
       h1 Cultura KAIZEN
 
-    .row.mb-4
-      .col-md-7.mb-4(data-aos="fade-right")
+    .row.justify-content-center.mb-4
+      .col-lg-7.mb-4(data-aos="fade-right")
         p Se refiere a una cultura de mejora continua centrada en eliminar los desperdicios de los procesos y sistemas de una empresa, buscando optimizar la productividad mediante la reducción de tiempo, estandarización de tiempo y la mejora en el sistema de proceso. El concepto KAIZEN es japonés y significa “mejoramiento” y desde esta óptica se puede definir como un elemento organizacional de mejora continua de los procesos donde participan todos los integrantes de la organización. 
-        p Así pues, Suárez-Barraza, et al (2011), lo define como: una filosofía de gestión que genera cambios o pequeñas mejoras incrementales en el método de trabajo (o procesos de trabajo) que permite reducir despilfarros y por consecuencia mejorar el rendimiento del trabajo, llevando a la organización a una espiral de innovación incremental (p. 63).
-      .col-md-5.mb-4(data-aos="fade-left")
+        p Así pues, Suárez-Barraza, et al (2011), lo define como: "una filosofía de gestión que genera cambios o pequeñas mejoras incrementales en el método de trabajo (o procesos de trabajo) que permite reducir despilfarros y por consecuencia mejorar el rendimiento del trabajo, llevando a la organización a una espiral de innovación incremental" (p. 63).
+      .col-lg-5.col-10.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/img.png' alt='')
 
 
@@ -22,7 +22,7 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center
 
-          .col-md-6.mb-4
+          .col-lg-6.mb-4
             .bg-color-secundario.tarjeta.p-4.h-100
               .row.align-items-center 
                 .col-md-3.col-4.px-md-4.mb-4.mb-md-0
@@ -30,7 +30,7 @@
                 .col-md-9
                   h5 Como filosofía gerencial 
                   p.mb-0 El KAIZEN  es este escenario se caracteriza por entender la gestión de una organización desde una filosofía que comprende los valores y principios que soportan al sistema de gestión basadas en  el mantener y potenciar los estándares de trabajo.  Involucrando activamente  y posibilitando la participación de "todos" los empleados de la organización.
-          .col-md-6.mb-4
+          .col-lg-6.mb-4
             .bg-color-secundario.tarjeta.p-4.h-100
               .row.align-items-center 
                 .col-md-3.col-4.px-md-4.mb-4.mb-md-0
@@ -38,7 +38,7 @@
                 .col-md-9
                   h5 Como un elemento de gestión por Calidad Total (TQM)
                   p.mb-0 El KAIZEN desde la óptica de mejora continua, se entiende como un proceso evolutivo, dinámico integrado por una serie de niveles que se transitan para aplicar la mejora continua, debe incluir formación permanente y entrenamiento  en técnicas de control estadístico y mejora continua de los procesos; así se postula que la mejora continua es un elemento significativo del TQM.
-          .col-md-6.mb-4
+          .col-lg-6.mb-4
             .bg-blue4.tarjeta.p-4
               .row.align-items-center 
                 .col-md-3.col-4.px-md-4.mb-4.mb-md-0
