@@ -23,25 +23,28 @@
 
           .row.justify-content-center.mb-5
             .col-lg-3.col-md-6.text-center.mb-3.mb-lg-0(data-aos="fade-down")
-              .bg-color-primario.p-4.py-3.border-radius-top
-                h4.mb-0 Muda
-              .bg-1.p-4.border-radius-bottom
-                p.mb-0 Son todos los recursos improductivos resultantes del desaprovechamiento del talento y potencial humano, deficiencia en control de calidad, inadecuado mantenimiento de máquinas y equipo, fallas en el transporte de materias primas o en movilización del producto.
+              .h-100.bg-1.tarjeta
+                .bg-color-primario.p-4.py-3.border-radius-top
+                  h4.mb-0 Muda
+                .bg-1.p-4.border-radius-bottom
+                  p.mb-0 Son todos los recursos improductivos resultantes del desaprovechamiento del talento y potencial humano, deficiencia en control de calidad, inadecuado mantenimiento de máquinas y equipo, fallas en el transporte de materias primas o en movilización del producto.
             .col-lg-3.col-md-6.text-center.mb-3.mb-lg-0(data-aos="fade-down")
-              .bg-color-primario.p-4.py-3.border-radius-top
-                h4.mb-0 Mura 
-              .bg-1.p-4.border-radius-bottom
-                p.mb-0 Tiene que ver con inconsistencia en el desempeño de las actividades, cuyo abordaje requiere una visión sistémica de la organización y sus procesos, para identificar fallos, defectos, no conformidades e incumplimientos.
+              .h-100.bg-1.tarjeta
+                .bg-color-primario.p-4.py-3.border-radius-top
+                  h4.mb-0 Mura 
+                .bg-1.p-4.border-radius-bottom
+                  p.mb-0 Tiene que ver con inconsistencia en el desempeño de las actividades, cuyo abordaje requiere una visión sistémica de la organización y sus procesos, para identificar fallos, defectos, no conformidades e incumplimientos.
             .col-lg-3.col-md-6.text-center.mb-3.mb-lg-0(data-aos="fade-down")
-              .bg-color-primario.p-4.py-3.border-radius-top
-                h4.mb-0 Miri
-              .bg-1.p-4.border-radius-bottom
-                p.mb-0 Excesos, sobrecargas capaces de generar altos niveles de estrés y/o esfuerzos no razonables; estos desperdicios se relacionan directamente con cuellos de botella y tiempos muertos, pudiendo en buena medida evitarse mediante el mapeo, mejora y estandarización de los procesos.
+              .h-100.bg-1.tarjeta
+                .bg-color-primario.p-4.py-3.border-radius-top
+                  h4.mb-0 Miri
+                .bg-1.p-4.border-radius-bottom
+                  p.mb-0 Excesos, sobrecargas capaces de generar altos niveles de estrés y/o esfuerzos no razonables; estos desperdicios se relacionan directamente con cuellos de botella y tiempos muertos, pudiendo en buena medida evitarse mediante el mapeo, mejora y estandarización de los procesos.
 
           .fondo-bloque.p-4.mb-5(data-aos="fade-down")
             .row 
               .col-md-2.px-lg-4.mb-3.mb-md-0
-                img.px-lg-4.pe-4.pe-md-0(src='@/assets/curso/temas/t1/ico1.svg' alt='' style="max-width: 155px;")
+                img.px-lg-4.pe-4.pe-md-0.m-auto(src='@/assets/curso/temas/t1/ico1.svg' alt='' style="max-width: 155px;")
               .col-md-10
                 p Implementar acciones de reducción de residuos basadas en la metodología lean genera algunos beneficios:
                 ul.lista-ul--color.color-azul

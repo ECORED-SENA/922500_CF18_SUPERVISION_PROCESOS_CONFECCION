@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Pensamiento <em>Lean Manufacturing</em>',
     descripcionCurso:
-      'El pensamiento <em>Lean Manufacturing</em> o Sistema Esbelto, desarrolla actividades en los procesos de manufactura, de mejora continua, y se conoce como filosofía KAIZEN. Apoyado en otras herramientas, aplica estas estrategias en el flujo de la producción para la eliminación de las mudas o desperdicios y corrige sistemáticamente, todas las pérdidas que resulten de las ineficiencias de los actuales procesos.',
+      'El pensamiento <em>Lean Manufacturing</em> o Sistema Esbelto, desarrolla actividades en los procesos de manufactura, de mejora continua, y se conoce como filosofía <em>KAIZEN</em>. Apoyado en otras herramientas, aplica estas estrategias en el flujo de la producción para la eliminación de las mudas o desperdicios y corrige sistemáticamente, todas las pérdidas que resulten de las ineficiencias de los actuales procesos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -47,7 +47,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Cultura KAIZEN ',
+        titulo: 'Cultura <em>KAIZEN</em>',
         desarrolloContenidos: true,
       },
       {

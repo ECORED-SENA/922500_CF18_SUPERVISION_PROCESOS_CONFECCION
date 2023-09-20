@@ -119,7 +119,7 @@
           .fondo-bloque.p-4.mb-5(data-aos="fade-down")
             .row 
               .col-md-2.px-lg-4.mb-3.mb-md-0
-                img.px-lg-4(src='@/assets/curso/temas/t3/ico.svg' alt='' style="max-width: 155px;")
+                img.px-lg-4.m-auto(src='@/assets/curso/temas/t3/ico.svg' alt='' style="max-width: 155px;")
               .col-md-10
                 p Para la implementación de esta filosofía es necesario contar con el compromiso de la dirección y establecer: 
                 ul.lista-ul--color.color-azul

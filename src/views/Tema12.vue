@@ -35,20 +35,20 @@
 
           .col-lg-10
             PasosA.color-acento-contenido.mb-5(tipo="n" data-aos="fade-down")
-              .row.align-items-center
+              .row.align-items-center.justify-content-center.justify-content-md-start
                 .col-md-7.mb-4.mb-md-0
                   p Representación del value #[em stream mapping]; es decir, la situación de la planta y las características a organizar del proceso.
-                .col-lg-2.col-md-3
+                .col-lg-2.col-md-3.col-7
                   img.px-lg-3(src='@/assets/curso/temas/t12/ico1.svg', alt='')
-              .row.align-items-center.justify-content-end
-                .col-lg-2.col-md-3.mb-4.mb-md-0
+              .row.align-items-center.justify-content-center.justify-content-md-end
+                .col-lg-2.col-md-3.mb-4.mb-md-0.col-7
                   img.px-lg-3(src='@/assets/curso/temas/t12/ico2.svg', alt='')
                 .col-md-7.text-left
                   p Entrega de materia prima e insumos para los módulos de producción, responde a preguntar en que cantidad y de qué manera se van a transportar a la planta.
-              .row.align-items-center
+              .row.align-items-center.justify-content-center.justify-content-md-start
                 .col-md-7.mb-4.mb-md-0
                   p Retirada de la producción confeccionada y de qué manera se retira o se lleva al CEDI.
-                .col-lg-2.col-md-3
+                .col-lg-2.col-md-3.col-7
                   img.px-lg-3(src='@/assets/curso/temas/t12/ico3.svg', alt='')
 
 

@@ -44,7 +44,7 @@
     .fondo-bloque.p-4.mb-5(data-aos="fade-down")
       .row 
         .col-md-2.px-lg-4.mb-3
-          img.px-lg-4(src='@/assets/curso/temas/t5/ico5.svg' alt='' style="max-width: 155px;")
+          img.px-lg-4.m-auto(src='@/assets/curso/temas/t5/ico5.svg' alt='' style="max-width: 155px;")
         .col-md-10
           ul.lista-ul--color.color-azul.mb-0
             li.mb-0 
