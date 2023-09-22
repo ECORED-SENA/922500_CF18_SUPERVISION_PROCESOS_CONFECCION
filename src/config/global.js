@@ -40,7 +40,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Pensamiento Lean Manufacturing <em>Lean Manufacturing</em>',
+        titulo: 'Pensamiento <em>Lean Manufacturing</em>',
         desarrolloContenidos: true,
       },
 
@@ -148,7 +148,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/922500_CF018_DU.pdf',
       },
       {
         icono: 'fas fa-download',

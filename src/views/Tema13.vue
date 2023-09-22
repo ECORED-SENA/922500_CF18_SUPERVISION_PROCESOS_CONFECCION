@@ -27,7 +27,7 @@
       .row.justify-content-center   
         .col-lg-10(data-aos="fade-down")
           .titulo-sexto.color-acento-contenido
-            p.mb-0 #[b Figura 6.] Proceso genérico de la ejecución de un proyecto LSS
+            p.mb-0 #[b Figura 5.] Proceso genérico de la ejecución de un proyecto LSS
           figure
             img(src='@/assets/curso/temas/t13/fig6.svg' alt='Se presenta el proceso genérico de una ejecución de un proyecto LSS, desde el inicio hasta el fin, pasando por las etapas definir, medir, analizar, mejorar y controlar.')
           figcaption.mt-3 Nota. Tomado de Felizzola, et al (2014). 

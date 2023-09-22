@@ -66,6 +66,8 @@
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-8
+        .titulo-sexto.color-acento-contenido
+          p.mb-0 #[b Figura 1.] Etapas metodología SMED
         img(src='@/assets/curso/temas/t5/fig.svg' alt='Imagen que presenta las 4 etapas de la implementación: proceso de cambio actual, análisis, introducción de mejoras y nuevo cambio.')
 
     .row.justify-content-center.mb-5

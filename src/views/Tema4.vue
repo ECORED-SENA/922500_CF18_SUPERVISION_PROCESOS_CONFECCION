@@ -128,10 +128,6 @@
                 td.text-center Seguridad 
                 td Cantidad de accidentes y cuasi accidentes que se presentan en la organización.
               tr
-                td 
-                td 
-                td 
-              tr
                 td.text-center MTTO
                 td.text-center Mantenimiento
                 td Paros de maquinaria y tiempo perdido de producción (Hrs/mes).

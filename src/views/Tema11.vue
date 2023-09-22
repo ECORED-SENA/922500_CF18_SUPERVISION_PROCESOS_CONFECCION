@@ -69,7 +69,7 @@
 
           .col-md-10(data-aos="fade-down")
             .titulo-sexto.color-acento-contenido
-              p.mb-0 #[b Figura 5.] Procedimiento para capacitar e identificar, las mudas en una empresa.
+              p.mb-0 #[b Figura 4.] Procedimiento para capacitar e identificar, las mudas en una empresa.
             figure
               img(src='@/assets/curso/temas/t11/fig.svg' alt='La imagen presenta un diagrama de flujo, donde se explica el procedimiento para capacitar e identificar las mudas en una empresa.')
             .row.justify-content-center

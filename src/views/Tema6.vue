@@ -17,19 +17,17 @@
           .col-lg-5.col-10.mb-4.mb-lg-0(data-aos="fade-right")
             img(src='@/assets/curso/temas/t6/img.png' alt='')
           .col-lg-7(data-aos="fade-left")
-            p Un dispositivo #[em POKA YOKE] es la estructura de un mecanismo que ayuda a prevenir los errores antes de que suceda. Según Guerrero (2017), los dispositivos #[em POKA YOKE] son mecanismos muy obvios que hacen que el trabajador se dé cuenta y lo corrija a tiempo, evitando errores o defectos en el producto final. Para Guerrero (2017) el concepto es simple: si no se producen errores en la línea de producción la calidad será alta y el reproceso poco. Con esta técnica a se eliminan problemas asociados con los defectos, la seguridad y los errores en las operaciones. Si el operador comete un error, el POKA YOKE controla el proceso para evitar defectos o en su caso realiza un paro de línea.
+            p Un dispositivo #[em POKA YOKE] es la estructura de un mecanismo que ayuda a prevenir los errores antes de que suceda. Según Guerrero (2017), los dispositivos #[em POKA YOKE] son mecanismos muy obvios que hacen que el trabajador se dé cuenta y lo corrija a tiempo, evitando errores o defectos en el producto final. Para Guerrero (2017) el concepto es simple: si no se producen errores en la línea de producción la calidad será alta y el reproceso poco. Con esta técnica a se eliminan problemas asociados con los defectos, la seguridad y los errores en las operaciones. Si el operador comete un error, el #[em POKA YOKE] controla el proceso para evitar defectos o en su caso realiza un paro de línea.
             p.mb-0 El ingeniero Shigeo Shingo, quien trabajó para Toyota y fue el creador de #[em POKA YOKE], según Guerrero (2017,) él estableció la formalización del Control de Calidad Cero Defectos o la sigla de las iniciales 
               b ZQC
               | , cuyo objetivo es crear sistemas simples para asegurar la calidad en el origen del proceso, evitando posibles causas de errores como: intercambios, olvidos, sustituciones e interpretaciones equivocadas. El #[em POKA YOKE] no es indispensable para evitar los defectos o errores en el proceso, pero sí reducen o eliminan el riesgo y la probabilidad de que éstos ocurran. 
 
     .cajon.color-secundario.p-4.mb-4(data-aos="fade")
       p Para lograr reducir los defectos dentro de un proceso de producción en especial las confecciones, el elemento principal es reconocer defectos o errores producidos por el trabajo; las inspecciones solo descubren los defectos, el #[em POKA YOKE] genera el ahorro del proceso de inspección.
-      p.mb-0 Un ejemplo cotidiano de #[em POKA YOKE] es el de las tarjetas de memoria: tarjetas telefónicas, SD, disco duro Portátil etc. Como se muestra en la siguiente figura.
+      p.mb-0 Un ejemplo cotidiano de #[em POKA YOKE] es el de las tarjetas de memoria: tarjetas telefónicas, SD, disco duro Portátil etc. 
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-6.bg-1.p-4
-        .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Figura 1.] Ejemplo #[em POKA YOKE]
         figure
           img(src='@/assets/curso/temas/t6/fig.png' alt='Ejemplo POKA YOKE')
           figcaption.mt-3 
