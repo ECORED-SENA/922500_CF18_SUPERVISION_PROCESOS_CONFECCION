@@ -11,7 +11,7 @@
     .cajon.color-primario.p-4.mb-5(data-aos="fade-down")
       .row.justify-content-center
         .col-lg-8
-          p De acuerdo con J. Carlos y H. Matías (2013), la definición de Kanban hace referencia a un sistema de control y programación sincronizada para producción basado en tarjetas (en japonés, Kanban), aunque pueden representarse por otro tipo de señales, afirmando que utiliza una idea sencilla basada en un sistema de tirar de la producción (pull) mediante un flujo sincronizado, continuo y en lotes pequeños, mediante la utilización de tarjetas (p. 75 ).
+          p De acuerdo con J. Carlos y H. Matías (2013), la definición de Kanban hace referencia a un sistema de control y programación sincronizada para producción basado en tarjetas (en japonés, Kanban), aunque pueden representarse por otro tipo de señales, afirmando que utiliza una idea sencilla basada en un sistema de tirar de la producción (#[em pull]) mediante un flujo sincronizado, continuo y en lotes pequeños, mediante la utilización de tarjetas (p. 75 ).
           p.mb-0
             b Esta estrategia de manufactura en la actualidad se ha posicionado como una herramienta vital la producción de la cantidad justa en un momento adecuado, asegurando un proceso de alta calidad; 
             | está basada en técnica de visualización de tarjetas, donde se especifican su punto de producción máximo y su punto inmediato de reposición, ayudando a tener un mejor control de inventarios. La tarjeta Kanban debe contener información de que se va a producir, la forma, la cantidad, denominación y el código de la pieza a fabricar, y la manera de transportar lo producido, el almacenamiento; por lo tanto sirven como una orden de trabajo.

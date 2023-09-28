@@ -13,7 +13,7 @@
         .row.justify-content-center.align-items-center
 
           .col-md-8.mb-4.mb-md-0(data-aos="fade-right")
-            p Es una herramienta para mejorar la productividad ampliamente difundida en Japón y muchos países desarrollados, cuyos propósitos están encaminados básicamente a lograr unos espacios de trabajo agradables, productivos y seguros, donde cada integrante contribuya desde un trabajo en equipo con su potencialidades y busca minimizar fallos o deterioros desde la cotidianidad eliminando así toda posibilidad de pérdidas y potenciando la capacidad instalada. En Colombia, algunas empresas, confiadas en los beneficios que se pueden obtener, están implementando este sistema basado en el esquema japonés, pero con adaptaciones al medio.
+            p Es una herramienta para mejorar la productividad ampliamente difundida en Japón y muchos países desarrollados, cuyos propósitos están encaminados básicamente a lograr unos espacios de trabajo agradables, productivos y seguros, donde cada integrante contribuya desde un trabajo en equipo con sus potencialidades y busca minimizar fallos o deterioros desde la cotidianidad eliminando así toda posibilidad de pérdidas y potenciando la capacidad instalada. En Colombia, algunas empresas, confiadas en los beneficios que se pueden obtener, están implementando este sistema basado en el esquema japonés, pero con adaptaciones al medio.
           .col-md-4.mb-4.mb-md-0(data-aos="fade-left")
             img(src='@/assets/curso/temas/t4/img.png' alt='')
 
@@ -50,7 +50,7 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-6")
           .row(titulo="Mantenimiento autónomo")
             .col-md-11
-              p En el mercado están hechas de diferentes fibras como son Pilar basado en el trabajo colaborativo para conservar y mejorar las condiciones del equipo, involucrando acciones de respeto hacia las condiciones de operación y conservación de las áreas de trabajo, generando una cultura  de áreas de trabajos libres de desorden, suciedad y libres de contaminación. Se busca integrar las acciones de operador, con el operario de mantenimiento contribuyendo articuladamente a la eficacia del equipo. 
+              p En el mercado están hechas de diferentes fibras como son Pilar, basado en el trabajo colaborativo para conservar y mejorar las condiciones del equipo, involucrando acciones de respeto hacia las condiciones de operación y conservación de las áreas de trabajo, generando una cultura  de áreas de trabajos libres de desorden, suciedad y libres de contaminación. Se busca integrar las acciones de operador, con el operario de mantenimiento, contribuyendo articuladamente a la eficacia del equipo. 
           .row(titulo="Mantenimiento planificado o progresivo")
             .col-md-11
               p Uno de los elementos más significativos en la búsqueda de beneficios en una organización, está asociado al mantenimiento preventivo, planificado o programado; su propósito es eliminar las dificultades de máquinas o equipos  a partir de acciones de mejora, preventivas y predictivas, contribuyendo a eliminar las causas de deterioro acelerado y avanzando a la meta de “cero averías” en la planta de confección.
@@ -59,7 +59,7 @@
               p Este pilar está fundado en la teoría de la fiabilidad, a partir de actividades de mejora que se realizan  a los equipos, buscando reducir los costos de mantenimiento durante su explotación. Está basado en implementar lo aprendido en las máquinas, equipos y procesos nuevos a partir del análisis de  datos sobre frecuencias de averías y reparaciones.
           .row(titulo="Polivalencia y desarrollo de habilidades")
             .col-md-11
-              p Los procesos de educación, formación y adestramiento, son claves e imprescindibles para los cambios continuos que se generan a nivel empresarial. Este pilar se basa en propósito de aumentar las capacidades y desarrollar habilidades en los empleados a partir dichas estrategias formativas.
+              p Los procesos de educación, formación y adiestramiento, son claves e imprescindibles para los cambios continuos que se generan a nivel empresarial. Este pilar se basa en propósito de aumentar las capacidades y desarrollar habilidades en los empleados a partir dichas estrategias formativas.
       .col-lg-5.col-9.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t4/img3.png' alt='')
 
@@ -73,7 +73,7 @@
               p Basada en garantizar la calidad del producto o servicio de la organización, enmarcada en la reducción de la variabilidad a partir del control de las condiciones de los equipos y los procesos que están directamente relacionados e impactan  la calidad.
           .row(titulo="Actividades de departamentos administrativos y de apoyo")
             .col-md-11
-              p Pilar basado en que las mejoras permeen la gerencia de los diferentes departamentos administrativos y a los diferente líderes de soporte, con el objetivo de que generen elementos para brindar recomendaciones y colaboren con el personal de mantenimiento para mitigar gastos, eliminar desperdicios y mejorar la calidad; partiendo del equilibrio entre las actividades primarias de la cadena de valor y las actividades de soporte.
+              p Pilar basado en que las mejoras permeen la gerencia de los diferentes departamentos administrativos y a los diferentes líderes de soporte, con el objetivo de que generen elementos para brindar recomendaciones y colaboren con el personal de mantenimiento para mitigar gastos, eliminar desperdicios y mejorar la calidad; partiendo del equilibrio entre las actividades primarias de la cadena de valor y las actividades de soporte.
           .row(titulo="Mejoras enfocadas")
             .col-md-11
               p Pilar basado en maximizar la efectividad global de la planta,  del proceso y del equipo, a través del proceso sistemático de eliminación de grandes pérdidas y despilfarros de las plantas de confección. Este pilar propone generar mejoras sin inversiones económicas, sino a partir del cambio de percepción de los integrantes de la organización, que le permita reconocer abiertamente las dificultades, crear equipos de trabajo, promover habilidades de compartir, comunicarse, apoyarse, genera liderazgos visibles y fomentar la autodisciplina.
@@ -176,7 +176,7 @@
                 td Generalmente se realiza un evento tipo conferencia sobre la cultura TPM.
               tr
                 td 2. Procesos de capacitación y campañas para introducir TPM. 
-                td Se implementan una serie de curso, seminarios, campañas y reuniones según niveles y procesos de la planta.
+                td Se implementan una serie de cursos, seminarios, campañas y reuniones según niveles y procesos de la planta.
               tr
                 td 3. Generar un trabajo en red para promover TPM.
                 td Definición de grupos/comités para promover TPM; definiendo claramente un comité central y un staff de apoyo.
@@ -189,7 +189,7 @@
               tr
                 td.text-center.fw-bold Introducción
                 td 6. Socialización de iniciación TPM.
-                td Realizar evento de socialización con invitación a toda la organización proveedores y cooperadores de la empresa.
+                td Realizar evento de socialización con invitación a toda la organización, proveedores y cooperadores de la empresa.
               tr
                 td.text-center.fw-bold(rowspan="5") Implementación
                 td 7. Mejorar la efectividad de cada pieza del equipo.

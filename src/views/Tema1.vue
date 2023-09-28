@@ -16,7 +16,7 @@
             .col-lg-8.mb-4(data-aos="fade-right")
               p Esta filosofía está basada en el concepto de “desperdicio” o “mudas”, como fundamento principal entendida como aquellas acciones o actividades inútiles, ociosas, o superfluas que no son significativas para el buen desarrollo de la productividad en la empresa, es decir, se concluye que la reducción de residuos es un mecanismo efectivo para incrementar la rentabilidad.
               .cajon.color-secundario.p-4.mb-5
-                p.mb-0 Aplicar un sistema lean para eliminar los residuos requiere inicialmente la identificación de situaciones que generan o no valor al proceso, y luego identificar los tres tipos específicos de residuos a saber, conocidos como las 3Mu (Mura, Mura, Muri), para lograr cambios organizacionales en los procesos de diseño, desarrollo y manufactura a partir de las prácticas de trabajo.
+                p.mb-0 Aplicar un sistema Lean para eliminar los residuos requiere inicialmente la identificación de situaciones que generan o no valor al proceso, y luego identificar los tres tipos específicos de residuos a saber, conocidos como las 3Mu (Muda, Mura y Muri), para lograr cambios organizacionales en los procesos de diseño, desarrollo y manufactura a partir de las prácticas de trabajo.
               h5 Según Hubbard (2010), se puede definir estos desperdicios así:  
             .col-lg-4.d-none.d-lg-block.mb-4(data-aos="fade-left")
               img(src='@/assets/curso/temas/t1/img.png' alt='')
@@ -46,7 +46,7 @@
               .col-md-2.px-lg-4.mb-3.mb-md-0
                 img.px-lg-4.pe-4.pe-md-0.m-auto(src='@/assets/curso/temas/t1/ico1.svg' alt='' style="max-width: 155px;")
               .col-md-10
-                p Implementar acciones de reducción de residuos basadas en la metodología lean genera algunos beneficios:
+                p Implementar acciones de reducción de residuos basadas en la metodología Lean genera algunos beneficios:
                 ul.lista-ul--color.color-azul
                   li.mb-1 
                     i.fas.fa-circle
@@ -62,7 +62,7 @@
             img(src='@/assets/curso/temas/t1/img2.png' alt='')
           .col-lg-7.mb-4(data-aos="fade-left")
             p El reto en la implementación es generar una cultura organizacional que suscite la generación de ideas y eliminación continua de desperdicios encarnada en cada uno de los integrantes de la organización.
-            p La implementación de herramientas de un sistema esbelto como #[em Value Stream Mapping] (VSM), mapeo de los lugares de trabajo, el Mantenimiento Productivo Total (TPM), planes y programas que conservan el buen estados de máquinas, guías, accesorios espacios físicos, las Cinco S (5S), limpieza de los espacios de trabajo, Sistema KANBAN, estandarización del trabajo, creando procesos y procedimientos simplificados, flujo continuo de manufactura, disminuyendo las unidades a un mínimo inclusive, a una reducción de Setup, disminuir arreglos y reprocesos, sistema de prueba y error, para simplificar los pasos en el flujo de la producción, hacen que este medio de ensamblar prendas de vestir sea uno de los más llamativos en el entorno textil confección.
+            p La implementación de herramientas de un sistema esbelto como #[em Value Stream Mapping] (VSM), mapeo de los lugares de trabajo, el Mantenimiento Productivo Total (TPM), planes y programas que conservan el buen estado de máquinas, guías, accesorios espacios físicos, las Cinco S (5S), limpieza de los espacios de trabajo, Sistema KANBAN, estandarización del trabajo, creando procesos y procedimientos simplificados, flujo continuo de manufactura, disminuyendo las unidades a un mínimo inclusive, a una reducción de #[em Setup], disminuir arreglos y reprocesos, sistema de prueba y error, para simplificar los pasos en el flujo de la producción, hacen que este medio de ensamblar prendas de vestir sea uno de los más llamativos en el entorno textil confección.
 
           .col-md-10
             .bloque-texto-a.color-secundario.p-4

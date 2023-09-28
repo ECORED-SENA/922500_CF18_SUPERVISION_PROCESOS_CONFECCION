@@ -13,7 +13,7 @@
       .col-lg-7.mb-4(data-aos="fade-right")
         .bg-blue2.h-100.p-4
           h3.t-red Sistema #[em Push]
-          p.mb-0 Es producir sin que el cliente te pida, es decir, se realizan previsiones, sin embargo, el #[em push] tiene mayores inventarios por lo tanto un costo financiero alto, mejora el manejo de la información y realiza constantemente prendas de vestir con el fin de no quedarse sin stock para atender los pedidos.
+          p.mb-0 Es producir sin que el cliente te pida, es decir, se realizan previsiones, sin embargo, el #[em push] tiene mayores inventarios por lo tanto un costo financiero alto, mejora el manejo de la información y realiza constantemente prendas de vestir con el fin de no quedarse sin #[em stock] para atender los pedidos.
       .col-lg-5.col-10.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t12/img.png' alt='')
     
@@ -23,8 +23,8 @@
       .col-lg-7.order-lg-2.order-1.mb-4(data-aos="fade-left")
         .bg-1.p-4
           h3.t-red Sistema #[em Pull]
-          p Es cuando la materia prima se reemplaza en el proceso al mismo ritmo que se confecciona; es decir, la materia prima no se empuja por el contrario se jala y se indica cuándo se necesita más materia prima entre módulos y procesos separados; este proceso permite simplificar las ordenes de aprovisionamiento a los proveedores, reduciendo el inventario y consiguiendo que cada operario produzca las necesidades reales de ese momento, facilita el flujo continuo estimulando la efectividad de métodos y la reducción de inventarios facilitando la localización de procesos con acumulación de producción y defectos de calidad. 
-          p.mb-0 El #[em Pull] System reduce el stock, reduce el exceso de producción incompleta, además, permite que los pedidos del cliente se realicen en un periodo de tiempo más corto, optimizando la cadena productiva y reduciendo el #[em lead time].
+          p Es cuando la materia prima se reemplaza en el proceso al mismo ritmo que se confecciona; es decir, la materia prima no se empuja, por el contrario se jala y se indica cuándo se necesita más materia prima entre módulos y procesos separados; este proceso permite simplificar las órdenes de aprovisionamiento a los proveedores, reduciendo el inventario y consiguiendo que cada operario produzca las necesidades reales de ese momento, facilita el flujo continuo estimulando la efectividad de métodos y la reducción de inventarios facilitando la localización de procesos con acumulación de producción y defectos de calidad. 
+          p.mb-0 El #[em Pull System] reduce el #[em stock], reduce el exceso de producción incompleta, además, permite que los pedidos del cliente se realicen en un periodo de tiempo más corto, optimizando la cadena productiva y reduciendo el #[em lead time].
 
     
     .row.fondo-gris.align-items-center.py-5.mb-5
@@ -37,7 +37,7 @@
             PasosA.color-acento-contenido.mb-5(tipo="n" data-aos="fade-down")
               .row.align-items-center.justify-content-center.justify-content-md-start
                 .col-md-7.mb-4.mb-md-0.order-2.order-md-1
-                  p Representación del value #[em stream mapping]; es decir, la situación de la planta y las características a organizar del proceso.
+                  p Representación del #[em value stream mapping]; es decir, la situación de la planta y las características a organizar del proceso.
                 .col-lg-2.col-md-3.col-7.order-1.order-md-2.mb-3.mb-md-0
                   img.px-lg-3(src='@/assets/curso/temas/t12/ico1.svg', alt='')
               .row.align-items-center.justify-content-center.justify-content-md-end

@@ -7,7 +7,7 @@
         span 5
       h1 (SMED) Cambio Rápido De Modelo
 
-    p(data-aos="fade") SMED significa “Cambio de modelo en minutos de un sólo dígito”. Son herramientas de optimización de procesos productivos a partir de la implementación de herramientas y técnicas dirigidas a minimizar los tiempos de cambio de formato de las maquinas, pero igualmente se ha implementado con algunas modificaciones para las diferentes operaciones que se realizan en el proceso. La técnica de reducción de tiempos se da basada en el camino de modelo en menos de 10 minutos; implementándola desde la última hasta la primera pieza buena en un tiempo inferior a 10 minutos.
+    p(data-aos="fade") SMED significa “Cambio de modelo en minutos de un sólo dígito”. Son herramientas de optimización de procesos productivos a partir de la implementación de herramientas y técnicas dirigidas a minimizar los tiempos de cambio de formato de las máquinas, pero igualmente se ha implementado con algunas modificaciones para las diferentes operaciones que se realizan en el proceso. La técnica de reducción de tiempos se da basada en el camino de modelo en menos de 10 minutos; implementándola desde la última hasta la primera pieza buena en un tiempo inferior a 10 minutos.
     h5.mb-4(data-aos="fade") Los objetivos de SMED, están basados en la reducción de tamaño de lotes, espacio, coste unitario por piezas, #[em lead time] e inventario, pero se pueden definir en estos cuatro elementos:
     
     .row.mb-5(data-aos="fade-down")
@@ -35,7 +35,7 @@
             img(src='@/assets/curso/temas/t5/ico4.svg' alt='')
             .tarjeta.bg-5.p-4.text-center
               h4 CAPACIDAD
-              p.mb-0 Aumento la disponibilidad de la maquina por la disminución de tiempo de cambio, generando así mayor capacidad de producción.
+              p.mb-0 Aumento la disponibilidad de la máquina por la disminución de tiempo de cambio, generando así mayor capacidad de producción.
 
 
     h3.t-red(data-aos="fade") Condiciones para implementar SMED
@@ -76,7 +76,7 @@
           .tarjeta-numerada__numero
             .h2.text-white 1
           h5 Etapa preliminar  
-          p Se sugiere realizar una serie de actividades previas para analizar y conocer  los movimientos inútiles de los operarios y sobre esto poder generar las mejoras, y una de ellas es grabar y generar un archivo de video para logar este objetivo donde se permita:
+          p Se sugiere realizar una serie de actividades previas para analizar y conocer  los movimientos inútiles de los operarios y sobre esto poder generar las mejoras, y una de ellas es grabar y generar un archivo de video para lograr este objetivo donde se permita:
           ul.lista-ul--color.color-azul.mb-0
             li.mb-0 
               i.fas.fa-circle
@@ -86,7 +86,7 @@
               | Generar un documento escrito sobre posibles acusas de variabilidad.
             li.mb-0 
               i.fas.fa-circle
-              | Entrevistar a los operarios y generar mediciones de las actuales condicione con cronómetros.
+              | Entrevistar a los operarios y generar mediciones de las actuales condiciones con cronómetros.
             li.mb-0 
               i.fas.fa-circle
               | Analizar el video con los trabajadores y generar un archivo fotográfico.
@@ -105,14 +105,14 @@
           h5.mb-0 Introducción de mejoras
           h5 Conversión de tareas internas a externas
           p Después de realizar una minuciosa revisión de las actividades internas, se genera el proceso de conversión pertinente, donde aquellas acciones de preparación  se realicen fuera de la máquina en funcionamiento y así lograr el cambio,  para que cuando ésta se pare, se haga el cambio necesario, de modo de que se pueda comenzar a funcionar rápidamente, generando así la eliminación del desperdicio.
-          p.mb-0 Generalmente las operaciones de ajuste, entendidas como las no conformidades que en el proceso de ensayo. Error - prueba se da hasta que el producto llegue a las especificaciones, representan del 50 a 70 % del tiempo de preparación interna, por eso se debe trabajar en la eliminación de ajustes, definiendo un espacio estándar para acomodar los diferentes herramientas, troqueles, matrices, punzones, utillajes, etc.
+          p.mb-0 Generalmente las operaciones de ajuste, entendidas como las no conformidades que en el proceso de ensayo. Error - prueba se da hasta que el producto llegue a las especificaciones, representan del 50 a 70 % del tiempo de preparación interna, por eso se debe trabajar en la eliminación de ajustes, definiendo un espacio estándar para acomodar las diferentes herramientas, troqueles, matrices, punzones, utillajes, etc.
       .col-lg-10(data-aos="fade")
         .tarjeta-numerada.color-acento-botones.p-5
           .tarjeta-numerada__numero
             .h2.text-white 4
           h5.mb-0 Nuevo cambio 
           h5 Perfeccionar las tareas internas y externas 
-          p.mb-0 La optimización de las operaciones internas y externas requiere es un proceso constante, creativo y riguroso, el diseño de dispositivos, elementos de sujeción, y de incluir acciones novedosas para logara perfeccionar los aspectos asociados a la preparación y lograr la mejora estandarizando acciones.
+          p.mb-0 La optimización de las operaciones internas y externas requiere es un proceso constante, creativo y riguroso, el diseño de dispositivos, elementos de sujeción, y de incluir acciones novedosas para lograr perfeccionar los aspectos asociados a la preparación y lograr la mejora estandarizando acciones.
 
 
     .row.mb-5
@@ -120,7 +120,7 @@
         img(src='@/assets/curso/temas/t5/img.png' alt='')
       .col-md-8.mb-4.ps-md-0(data-aos="fade-left")
         .bg-blue5.p-4.p-md-5.h-100.align-items-center
-          p La implementación de estas etapas contribuye a transformar el paradigma basado en el supuesto de que los cambios útiles/preparaciones son demasiado difícil y necesitan mucho tiempo. Lo importante es que cada empresa de conozca con claridad todas las actividades de “Set-up” interno y externo.
+          p La implementación de estas etapas contribuye a transformar el paradigma basado en el supuesto de que los cambios útiles/preparaciones son demasiado difícil y necesitan mucho tiempo. Lo importante es que cada empresa se conozca con claridad todas las actividades de #[em set-up] interno y externo.
           p.mb-0 Para realizar una ampliación conceptual se sugiere leer el Capítulo 3 – Módulo IV del libro 
             b #[em Lean Manufacturing], la evidencia de una necesidad, 
             | el cual se encuentra en el material complementario.

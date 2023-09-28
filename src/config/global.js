@@ -168,9 +168,9 @@ export default {
         'Pensamiento <em>Lean Manufacturing</em> <br> Filosofía 5S <br> (SMED) Cambio Rápido De Modelo <br> KANBAN <br> <em>HEIJUNKA</em>',
       referencia:
         'Rajadell Carreras, M. (2012). <em>Lean Manufacturing, la evidencia de una necesidad</em>. Ediciones Díaz de Santos. ',
-      tipo: 'Base de datos Biblioteca SENA – eLibro',
+      tipo: 'PDF',
       link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/53016?page=131',
+        'https://www.academia.edu/28685140/Lean_Manufacturing_La_Evidencia_de_Una_Necesidad',
     },
     {
       tema: '<em>POKA YOKE</em>',
@@ -213,7 +213,7 @@ export default {
     {
       termino: 'DPMO',
       significado:
-        'Defectos por millón de oportunidades (DPMO) es el número de defectos en una muestra. El DPMO estandariza el número de defectos en el nivel de oportunidad y es útil porque permite comparar procesos con diferentes complejidades.',
+        ' Defectos Por Millón de Oportunidades (DPMO) es el número de defectos en una muestra. El DPMO estandariza el número de defectos en el nivel de oportunidad y es útil porque permite comparar procesos con diferentes complejidades.',
     },
     {
       termino: 'Niveles de inventario o <em>stock</em>',
@@ -228,7 +228,7 @@ export default {
     {
       termino: '<em>HEIJUNKA</em>',
       significado:
-        'Sistema de producción <em>lean</em> que mejora la logística en una empresa.',
+        'Sistema de producción <em>Lean</em> que mejora la logística en una empresa.',
     },
     {
       termino: 'Programación nivelada',
@@ -262,7 +262,7 @@ export default {
     },
     {
       referencia:
-        'Cuatrecasas, L., & Torrell, F. (2010). TPM en un entorno Lean Management: Estrategia competitiva. Profit. Editorial. ',
+        'Cuatrecasas, L., & Torrell, F. (2010). TPM en un entorno <em>Lean Management</em>: Estrategia competitiva. Profit. Editorial. ',
       link:
         'https://books.google.com.mx/books?id=n5qUDVbPA6wC&printsec=copyright#v=onepage&q&f=false',
     },
@@ -273,23 +273,22 @@ export default {
     },
     {
       referencia:
-        'Felizzola Jiménez, Heriberto, & Luna Amaya, Carmenza. (2014). Lean Six Sigma en pequeñas y medianas empresas: un enfoque metodológico. <em>Ingeniare. Revista chilena de ingeniería</em>, 22(2), 263-277. ',
+        'Felizzola Jiménez, Heriberto, & Luna Amaya, Carmenza. (2014). <em>Lean Six Sigma</em> en pequeñas y medianas empresas: un enfoque metodológico. <em>Ingeniare. Revista chilena de ingeniería</em>, 22(2), 263-277. ',
       link: 'https://dx.doi.org/10.4067/S0718-33052014000200012 ',
     },
     {
       referencia:
-        'Guerrero, J. (29 de Septiembre de 2017). <em>Poka Yoke</em>. Obtenido de Leanroots, Lean Manufacturing y Productividad Personal: ',
-      link: 'https://www.leanroots.com/wordpress/2017/09/29/poka-yoke/ ',
+        'Guerrero, J. (29 de Septiembre de 2017). <em>Poka Yoke</em>. Obtenido de <em>Leanroots, Lean Manufacturing</em> y Productividad Personal.',
     },
     {
       referencia:
-        'Hernández, J y Vizán A. (2013) Lean Manufacturing Conceptos, técnicas e implantación. Escuela de organización industrial. ',
+        'Hernández, J y Vizán A. (2013) <em>Lean Manufacturing</em> Conceptos, técnicas e implantación. Escuela de organización industrial. ',
       link:
         'https://www.eoi.es/es/savia/publicaciones/20730/lean-manufacturing-concepto-tecnicas-e-implantacion',
     },
     {
       referencia:
-        'Hubbard, B. (14 de Enero de 2010). Lean Manufacturign Revolution! Obtenido de Mura, Muda and Muri: ',
+        'Hubbard, B. (14 de Enero de 2010). <em>Lean Manufacturign Revolution</em>! Obtenido de Mura, Muda and Muri: ',
       link: 'http://bobsleanlearning.wordpress.com/2010/01/14/muda/',
     },
     {
@@ -304,15 +303,15 @@ export default {
     },
     {
       referencia:
-        'Rajadell, Carreras, J, Sánchez García L (2010). Lean Manufacturing, la evidencia de una necesidad. Ediciones Díaz de Santos Albasanz. ',
+        'Rajadell, Carreras, J, Sánchez García L (2010). <em>Lean Manufacturing</em>, la evidencia de una necesidad. Ediciones Díaz de Santos Albasanz. ',
     },
     {
       referencia:
-        'Ruiz. P. (2007). La gestión de costes en Lean Manufacturing. Cómo evaluar las mejoras en costes en un sistema Lean. Netbiblo. ',
+        'Ruiz. P. (2007). La gestión de costes en <em>Lean Manufacturing</em>. Cómo evaluar las mejoras en costes en un sistema <em>Lean</em>. Netbiblo. ',
     },
     {
       referencia:
-        'Snee. R.D (2010). Lean Six Sigma - getting better all the time. <em>International Journal of Lean Six Sigma</em>. Vol. 1, Issue 1, pp. 9-29. March 2010. ISSN: 2040-4166. DOI: 10.1108/20401461011033130.  ',
+        'Snee. R.D (2010). <em>Lean Six Sigma - getting better all the time. International Journal of Lean Six Sigma</em>. Vol. 1, Issue 1, pp. 9-29. March 2010. ISSN: 2040-4166. DOI: 10.1108/20401461011033130.  ',
     },
     {
       referencia:
@@ -347,23 +346,23 @@ export default {
         {
           nombre: 'Liliana María Ceballos Gutiérrez',
           cargo: 'Asesora metodóloga Diseño y desarrollo curricular',
-          centro: 'Diseño, confección y moda - Regional Antioquía',
+          centro: 'Diseño, Confección y Moda - Regional Antioquía',
         },
         {
           nombre: 'Víctor Manuel Isaza Córdoba',
           cargo: 'Diseño y desarrollo curricular',
-          centro: 'Diseño, confección y moda - Regional Antioquía',
+          centro: 'Diseño, Confección y Moda - Regional Antioquía',
         },
         {
           nombre: 'Carlos Parra Carrillo',
           cargo: 'Experto temático',
           centro:
-            'Centro de la industria, la empresa y los servicios - Regional Norte de Santander',
+            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
         },
         {
           nombre: 'Fernelis Mauricio Echeverri',
           cargo: 'Experto temático',
-          centro: 'Diseño, confección y moda - Regional Antioquía',
+          centro: 'Diseño, Confección y Moda - Regional Antioquía',
         },
         {
           nombre: 'Vilma Lucía Perilla Méndez',

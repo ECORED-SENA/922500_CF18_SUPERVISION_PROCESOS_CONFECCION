@@ -23,10 +23,10 @@
         .titulo-sexto.color-acento-contenido
           p.mb-0 #[b Tabla 1.] Filosofía 5S
         .tabla-a.color-acento-contenido.mb-5 
-          .bg-acento-contenido.mb-0
-            h3.mb-0.text-white.text-center.py-2 FILOSOFÍA 5S
           table 
             thead
+              tr.bg-acento-contenido.mb-0
+                th(colspan="4").mb-0.text-white.text-center.py-2 FILOSOFÍA 5S
               tr
                 th JAPONÉS
                 th ESPAÑOL
@@ -61,7 +61,7 @@
 
     
     h3.t-red(data-aos="fade") ¿Cuándo se deben implementar las 5S?
-    p.mb-4(data-aos="fade") Con esta metodología se logra diseñar y conservar en el tiempo espacios físicos de trabajo ordenados, limpios, seguros y agradables que faciliten el trabajo digno y arrojen como resultado productos y servicios de calidad. Las empresas pueden solucionar, espacios repletos de piezas, el desorden interno, exceso de inventario, exceso de artículos y máquinas, uso racional de recursos espacios repletos de piezas de repuestos y herramientas, accidentalidad, equipos sucios. Al implementar las 5S, se logra: 
+    p.mb-4(data-aos="fade") Con esta metodología se logra diseñar y conservar en el tiempo espacios físicos de trabajo ordenados, limpios, seguros y agradables que faciliten el trabajo digno y arrojen como resultado productos y servicios de calidad. Las empresas pueden solucionar: espacios repletos de piezas, el desorden interno, exceso de inventario, exceso de artículos y máquinas, uso racional de recursos, espacios repletos de piezas de repuestos y herramientas, accidentalidad, equipos sucios. Al implementar las 5S, se logra: 
 
     .row.justify-content-center
       .col-lg-5.col-md-6.mb-4
@@ -70,44 +70,44 @@
           ul.lista-ul--color.color-azul.t3.mb-0
             li
               i.fas.fa-circle
-              | Productividad
+              | Productividad.
             li
               i.fas.fa-circle
-              | Calidad
+              | Calidad.
             li
               i.fas.fa-circle
-              | Reducción de costos
+              | Reducción de costos.
             li
               i.fas.fa-circle
-              | Entregas a tiempo
+              | Entregas a tiempo.
             li
               i.fas.fa-circle
-              | Seguridad
+              | Seguridad.
             li.mb-0
               i.fas.fa-circle
-              | Mejorar la imagen
+              | Mejorar la imagen.
       .col-lg-5.col-md-6.mb-4 
         .bg-gray.p-4.mb-4.h-100
           h3 PARA EL RECURSO HUMANO
           ul.lista-ul--color.color-azul.t3.mb-0
             li
               i.fas.fa-circle
-              | Ingenio
+              | Ingenio.
             li
               i.fas.fa-circle
-              | Mejor comunicación
+              | Mejor comunicación.
             li
               i.fas.fa-circle
-              | Relaciones interpersonales
+              | Relaciones interpersonales.
             li
               i.fas.fa-circle
-              | Trabajo en equipo
+              | Trabajo en equipo.
             li
               i.fas.fa-circle
-              | Relaciones estrechas entre los colaboradores y la gerencia
+              | Relaciones estrechas entre los colaboradores y la gerencia.
             li.mb-0
               i.fas.fa-circle
-              | Moral alta del trabajador
+              | Moral alta del trabajador.
   
 
     .row.fondo-t3.align-items-center.pt-5
@@ -141,7 +141,7 @@
               .row.align-items-center
                 .col-md-7.mb-4.mb-md-0
                   h5 Separación de lo innecesario
-                  p Objetivo: reducir el desorden al distinguir con claridad entre lo necesario y lo innecesario, es decir utilizar y mantener la cantidad adecuada de lo que se utilizar en el lugar de trabajo, la clasificación se realiza empleando tarjetas de colores: 
+                  p Objetivo: reducir el desorden al distinguir con claridad entre lo necesario y lo innecesario, es decir, utilizar y mantener la cantidad adecuada de lo que se utiliza en el lugar de trabajo, la clasificación se realiza empleando tarjetas de colores: 
                   ul.lista-ul--color.color-azul
                     li.mb-0 
                       i.fas.fa-circle
@@ -208,7 +208,7 @@
                   p Objetivo: crear un método estandarizado y una rutina para mantener las primeras 3S.
                   p
                     b ¿Qué es? 
-                    | Generar normas básicas, visibles basadas en estándares de oren y limpieza, que nos permita detectar fácilmente situaciones irregulares.
+                    | Generar normas básicas, visibles, basadas en estándares de orden y limpieza, que nos permita detectar fácilmente situaciones irregulares.
               .row.align-items-center
                 .col-md-7.mb-4.mb-md-0
                   h5 Seguir mejorando

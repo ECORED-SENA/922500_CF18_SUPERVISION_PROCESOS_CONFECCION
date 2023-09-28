@@ -67,7 +67,7 @@
                   img(src='@/assets/curso/temas/t7/ico2.svg' alt='')
                   .tarjeta.bg-4.p-4.text-center
                     h4 Eliminar despilfarros
-                    p.mb-0 Objetivo basado en la eliminación los costos productos del manejo y mantenimiento, de despilfarro o desperdicio (muda) originados dentro de las operaciones. 
+                    p.mb-0 Objetivo basado en la eliminación de los costos productos del manejo y mantenimiento, de despilfarro o desperdicio (muda) originados dentro de las operaciones. 
               .row.h-100
                 .tarjeta-avatar.h-100
                   img(src='@/assets/curso/temas/t7/ico3.svg' alt='')
@@ -88,7 +88,7 @@
             .div.border-bottom-orange.bg-2.p-4(titulo="Organización")
               p Se hace necesario iniciar el proceso fundando un comité amplio donde exista representación de todos los procesos de producción como son: compras, diseño, producción, control de calidad, mantenimiento y operaciones.
             .div.border-bottom-orange.bg-2.p-4(titulo="Educación")
-              p A partir de la organización se inicia el conocimiento, confianza, comprensión y fe, que se solidifica a través del proceso continuo, intenso y coherente de socialización y capacitación que inicia en la alta gerencia pero permea a todos los integrantes de la organización, buscando que todos y cada uno comprenda, aprecie la filosofía, sus objetivos y los beneficios de implementar JIT, también debe abarcar conceptos básicos referentes a áreas tales como la importancia del cliente, el tiempo guía , el costo del inventario, y la productividad.
+              p A partir de la organización se inicia el conocimiento, confianza, comprensión y fe, que se solidifica a través del proceso continuo, intenso y coherente de socialización y capacitación que inicia en la alta gerencia, pero permea a todos los integrantes de la organización, buscando que todos y cada uno comprenda, aprecie la filosofía, sus objetivos y los beneficios de implementar JIT, también debe abarcar conceptos básicos referentes a áreas tales como la importancia del cliente, el tiempo guía, el costo del inventario, y la productividad.
             .div.border-bottom-orange.bg-2.p-4(titulo="Valoración")
               p Debido a multiplicidad y etapas de desarrollo de los ambientes y procesos de las organizaciones, se hace necesario que cada uno realice un análisis partiendo del estado actual y defina de objetivos JIT y las prioridades de las actividades de mejoramiento propuestos.
             .div.border-bottom-orange.bg-2.p-4(titulo="El plan")

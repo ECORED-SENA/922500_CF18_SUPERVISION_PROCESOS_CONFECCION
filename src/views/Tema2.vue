@@ -45,7 +45,7 @@
                   img(src='@/assets/curso/temas/t2/ico3.svg' alt='')
                 .col-md-9
                   h5 Como principio teórico de metodologías y técnicas de mejora
-                  p.mb-0 El #[em KAIZEN] en este escenario se basa en una estrategia transversal para la eliminación de mudas a lo largo del proceso productivo  implementando metodologías y/o técnicas que ayuden a eliminar el desperdicio, mejorándolos tiempos, optimizando la entrega, e incluso mejorando el flujo de dinero.
+                  p.mb-0 El #[em KAIZEN] en este escenario se basa en una estrategia transversal para la eliminación de mudas a lo largo del proceso productivo, implementando metodologías y/o técnicas que ayuden a eliminar el desperdicio, mejorándolos tiempos, optimizando la entrega, e incluso mejorando el flujo de dinero.
 
 
     h3.t-red(data-aos="fade") Pasos para implementar #[em KAIZEN]  

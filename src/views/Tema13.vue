@@ -12,8 +12,8 @@
         .row.justify-content-center.align-items-center
 
           .col-lg-7.mb-4(data-aos="fade-right")
-            p De acuerdo con Snee (2010), es un enfoque de mejora que ha tenido gran acogida gracias a su capacidad para dar solución efectiva a muchos de los problemas que enfrentan las organizaciones hoy (p.9). Por esta razón, grandes empresas a nivel mundial han implementado este enfoque como una estrategia de negocios para mejorar la calidad de los productos y servicios, mejorar la eficiencia de los procesos, aumentar la satisfacción del cliente y aumentar la rentabilidad según Kumar (2006).
-            p #[em Six Sigma] es una metodología compuesta por cinco fases de acuerdo con Antony et al (2005, p.860) son: “Definir, Medir, Analizar, Mejorar y Controlar, comúnmente llamada DMAIC, por sus siglas en inglés (
+            p De acuerdo con Snee (2010), es un enfoque de mejora que ha tenido gran acogida gracias a su capacidad para dar solución efectiva a muchos de los problemas que enfrentan las organizaciones hoy (p.9). Por esta razón, grandes empresas a nivel mundial han implementado este enfoque como una estrategia de negocios para mejorar la calidad de los productos y servicios, mejorar la eficiencia de los procesos, aumentar la satisfacción del cliente y aumentar la rentabilidad, según Kumar (2006).
+            p #[em Six Sigma] es una metodología compuesta por cinco fases, de acuerdo con Antony et al (2005, p.860) son: “Definir, Medir, Analizar, Mejorar y Controlar, comúnmente llamada DMAIC, por sus siglas en inglés (
                 em Define, Measure, Analize, Improve, Control
                 | ), y tiene como objetivo aumentar la capacidad de los procesos, de tal forma que estos generen solo 3,4 defectos por millón de oportunidades (DPMO), con lo que los errores o fallas se hacen prácticamente imperceptibles para el cliente”. 
           .col-lg-5.col-10.mb-4(data-aos="fade-left")
@@ -21,7 +21,7 @@
 
     
     h3.t-red(data-aos="fade") Ejecución de #[em Six sigma] 
-    p.mb-4(data-aos="fade") Las empresas de confección ejecutan y hacen seguimiento a los proyectos previamente seleccionados, por las otras herramientas que se implementan en Lean Manufacturing y se utiliza la metodología DMAIC de Six Sigma, es decir, Definir, Medir, Analizar, Mejorar y Controlar, en la siguiente figura se presenta el proceso genérico para la ejecución de un proyecto LSS (Lean Six sigma) (ver figura).
+    p.mb-4(data-aos="fade") Las empresas de confección ejecutan y hacen seguimiento a los proyectos previamente seleccionados, por las otras herramientas que se implementan en #[em Lean Manufacturing] y se utiliza la metodología DMAIC de #[em Six Sigma], es decir, Definir, Medir, Analizar, Mejorar y Controlar, en la siguiente figura se presenta el proceso genérico para la ejecución de un proyecto LSS (#[em Lean Six sigma]) (ver figura).
     
     .bg-1.p-4.mb-5
       .row.justify-content-center   
@@ -40,8 +40,8 @@
               img(src='@/assets/curso/temas/t13/ico.svg' alt='')
             .col-md-10
               p 
-                b El Lean Six Sigma 
-                | plantea que al ejecutar los procesos correctamente para el desarrollo de los proyectos puede identificar los requisitos del cliente, a esta etapa se le puede llamar (
+                b El #[em Lean Six Sigma] 
+                |  plantea que al ejecutar los procesos correctamente para el desarrollo de los proyectos puede identificar los requisitos del cliente, a esta etapa se le puede llamar (
                 b definir
                 | ), determinar los procesos que influyen en las características críticas de calidad (
                 b medir

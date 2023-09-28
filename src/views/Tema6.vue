@@ -24,21 +24,21 @@
 
     .cajon.color-secundario.p-4.mb-4(data-aos="fade")
       p Para lograr reducir los defectos dentro de un proceso de producción en especial las confecciones, el elemento principal es reconocer defectos o errores producidos por el trabajo; las inspecciones solo descubren los defectos, el #[em POKA YOKE] genera el ahorro del proceso de inspección.
-      p.mb-0 Un ejemplo cotidiano de #[em POKA YOKE] es el de las tarjetas de memoria: tarjetas telefónicas, SD, disco duro Portátil etc. 
+      p.mb-0 Un ejemplo cotidiano de #[em POKA YOKE] es el de las tarjetas de memoria: tarjetas telefónicas, SD, disco duro Portátil, etc. 
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-6.bg-1.p-4
         figure
           img(src='@/assets/curso/temas/t6/fig.png' alt='Ejemplo POKA YOKE')
           figcaption.mt-3 
-            p.mb-0 Nota. Tomado de Caño, G. [@farmagemma]. (2020, mayo 28). Mensaje. [Tuit]. https://twitter.com/farmagemma/status/1265894970688524289.
+            p.mb-0 Nota. Tomado de Caño, G. [@farmagemma]. (2020, mayo 28). Mensaje. [Tuit].
 
     p(data-aos="fade") En las operaciones de fabricación, existen una serie de ensambles y procesos mecanizados que por su repitencia puede generar un riesgo alto de errores, los POKA YOKE ayudan a minimizar ese riesgo con medidas generalmente sencillas.
-    h5.mb-5(data-aos="fade") Se puede analizar los siguientes conceptos de #[em POKA YOKE], según la función dese le punto de vista de Guerrero (2017):
+    h5.mb-5(data-aos="fade") Se puede analizar los siguientes conceptos de #[em POKA YOKE], según la función desde el punto de vista de Guerrero (2017):
 
     TabsA.color-primario.mb-5(data-aos="fade-down")
       .div.border-bottom-orange.bg-2.p-4(titulo="Función de control")
-        p Se diseñan mecanismos o dispositivos #[em POKA YOKE] para impedir que el error se realice. Por ejemplo: las tarjetas sim card, que se pueden poner de una sola manera, y si se ubica de manera incorrecta no funciona. Es decir, tiene un derecho para su instalación.
+        p Se diseñan mecanismos o dispositivos #[em POKA YOKE] para impedir que el error se realice. Por ejemplo: las tarjetas #[em sim card], que se pueden poner de una sola manera, y si se ubica de manera incorrecta no funciona. Es decir, tiene un derecho para su instalación.
       .div.border-bottom-orange.bg-2.p-4(titulo="Función de advertencia")
         p En este caso el mecanismo o dispositivo #[em POKA YOKE] puede producir el error, pero el dispositivo o mecanismo reacciona advirtiendo al operario cuando este se presente, para actuar a tiempo y corregir. Por ejemplo: un indicador luminoso o un timbre que al sonar advierte sobre riesgo de error. 
 
@@ -49,7 +49,7 @@
         .row.justify-content-center
           .col-md-5
             h5 Ficha técnica
-            p Herramienta para estandarizar la información gráfica y escrita de una prenda que se va a confeccionar determinando el paso a paso para de sus operaciones, esta puede ser ficha técnicas de diseño, de patronaje, de confección y de procesos. 
+            p Herramienta para estandarizar la información gráfica y escrita de una prenda que se va a confeccionar determinando el paso a paso para de sus operaciones, esta puede ser ficha técnica de diseño, de patronaje, de confección y de procesos. 
           .col-md-5.text-center
             img.mb-3(src='@/assets/curso/temas/t6/slider-img1.png' alt='Ficha técnica' @click="modal1 = true")
             a.lnk.indicador__container(@click="modal1 = true") 

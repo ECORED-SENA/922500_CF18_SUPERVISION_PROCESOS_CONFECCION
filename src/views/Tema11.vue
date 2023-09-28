@@ -24,7 +24,7 @@
       .row.border-bottom-orange.bg-2.p-4(titulo="Inventarios")
         .col-md-9
           h5 Inventarios
-          p Es muy costoso mantener inventario en proceso o en producto terminado, este inventario se refiere a materia prima como telas o insumos sin fabricar o prendas terminadas sin entregar al cliente sea porque él no lo programo o simplemente se fabricó antes de tiempo, genera sensación de poca capacidad en la empresa.
+          p Es muy costoso mantener inventario en proceso o en producto terminado, este inventario se refiere a materia prima como telas o insumos sin fabricar o prendas terminadas sin entregar al cliente, sea porque él no lo programo o simplemente se fabricó antes de tiempo, genera sensación de poca capacidad en la empresa.
         .col-md-3
           img(src='@/assets/curso/temas/t11/tab2.png', alt='')
       .row.border-bottom-orange.bg-2.p-4(titulo="Transporte")
@@ -48,7 +48,7 @@
       .row.border-bottom-orange.bg-2.p-4(titulo="Procesos innecesarios")
         .col-md-9
           h5 Procesos innecesarios
-          p Son actividades que existen cuando no se hace un estudio detallado de cómo realizar cada una de las operaciones que componen una prenda de vestir, para esto se debe identificar cuáles son las operaciones que se están haciendo demás y así mejorar el diseño de procesos que antes era robustos e ineficientes.
+          p Son actividades que existen cuando no se hace un estudio detallado de cómo realizar cada una de las operaciones que componen una prenda de vestir, para esto se debe identificar cuáles son las operaciones que se están haciendo demás y así mejorar el diseño de procesos que antes eran robustos e ineficientes.
         .col-md-3
           img(src='@/assets/curso/temas/t11/tab6.png', alt='')
       .row.border-bottom-orange.bg-2.p-4(titulo="Defectos")

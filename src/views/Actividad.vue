@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
           h2 Identificación de mudas
-        p.mb-4 Reconocer el concepto de desperdicios en el sistema #[em lean]. 
+        p.mb-4 Reconocer el concepto de desperdicios en el sistema #[em Lean]. 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

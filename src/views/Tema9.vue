@@ -15,7 +15,7 @@
         h5 Esta estrategia genera un proceso de inspección de calidad, donde empleados de la línea y los inspectores de calidad se fusionan sin distinción; logrando que cada operario garantice la calidad de su trabajo, controlando con mayor interés el proceso que el producto, erradicando defectos en la producción.
 
     .cajon.color-secundario.p-4.mb-5(data-aos="fade-down")
-      p.mb-0 Según Matías (2013), una máquina autonomizada es aquella que está conectada a un mecanismo de detención automático para prevenir la fabricación de productos defectuoso, de esta forma se incorpora a las máquinas la inteligencia humana. La autonomación determina el sentido del uso de la máquina. Cuando opera normalmente no es necesario ningún operario; sólo cuando la operación se detiene por una situación anormal, esta requiere atención del operario, y como resultado, un solo operario podrá atender varias máquinas reduciendo el número de operarios en contacto con la maquina e incrementando el rendimiento de la producción.
+      p.mb-0 Según Matías (2013), una máquina autonomizada es aquella que está conectada a un mecanismo de detención automático para prevenir la fabricación de productos defectuoso, de esta forma se incorpora a las máquinas la inteligencia humana. La autonomación determina el sentido del uso de la máquina. Cuando opera normalmente no es necesario ningún operario; sólo cuando la operación se detiene por una situación anormal, esta requiere atención del operario, y como resultado, un solo operario podrá atender varias máquinas reduciendo el número de operarios en contacto con la máquina e incrementando el rendimiento de la producción.
 
     p.mb-4(data-aos="fade") La siguiente tabla, muestra los pasos progresivos y técnicas concretas que se pueden ir aplicando para alcanzar una autonomación completa en las máquinas.
 
@@ -38,7 +38,7 @@
                 td 
                   p.mb-0.fw-bold Autonomación del proceso
                   p.mb-0 Transferir esfuerzo de operario en esfuerzo de la máquina. Ejemplo: atornillado automático.
-                td.text-center(rowspan="3") Operaciones simultáneas operario/ maquina.
+                td.text-center(rowspan="3") Operaciones simultáneas operario/ máquina.
               tr
                 td.text-center 2
                 td 
