@@ -16,7 +16,7 @@
             .col-lg-8.mb-4(data-aos="fade-right")
               p Esta filosofía está basada en el concepto de “desperdicio” o “mudas”, como fundamento principal entendida como aquellas acciones o actividades inútiles, ociosas, o superfluas que no son significativas para el buen desarrollo de la productividad en la empresa, es decir, se concluye que la reducción de residuos es un mecanismo efectivo para incrementar la rentabilidad.
               .cajon.color-secundario.p-4.mb-5
-                p.mb-0 Aplicar un sistema Lean para eliminar los residuos requiere inicialmente la identificación de situaciones que generan o no valor al proceso, y luego identificar los tres tipos específicos de residuos a saber, conocidos como las 3Mu (Muda, Mura y Muri), para lograr cambios organizacionales en los procesos de diseño, desarrollo y manufactura a partir de las prácticas de trabajo.
+                p.mb-0 Aplicar un sistema #[em Lean] para eliminar los residuos requiere inicialmente la identificación de situaciones que generan o no valor al proceso, y luego identificar los tres tipos específicos de residuos a saber, conocidos como las 3Mu (Muda, Mura y Muri), para lograr cambios organizacionales en los procesos de diseño, desarrollo y manufactura a partir de las prácticas de trabajo.
               h5 Según Hubbard (2010), se puede definir estos desperdicios así:  
             .col-lg-4.d-none.d-lg-block.mb-4(data-aos="fade-left")
               img(src='@/assets/curso/temas/t1/img.png' alt='')
@@ -37,7 +37,7 @@
             .col-lg-3.col-md-6.text-center.mb-3.mb-lg-0(data-aos="fade-down")
               .h-100.bg-1.tarjeta
                 .bg-color-primario.p-4.py-3.border-radius-top
-                  h4.mb-0 Miri
+                  h4.mb-0 Muri
                 .bg-1.p-4.border-radius-bottom
                   p.mb-0 Excesos, sobrecargas capaces de generar altos niveles de estrés y/o esfuerzos no razonables; estos desperdicios se relacionan directamente con cuellos de botella y tiempos muertos, pudiendo en buena medida evitarse mediante el mapeo, mejora y estandarización de los procesos.
 
@@ -46,7 +46,7 @@
               .col-md-2.px-lg-4.mb-3.mb-md-0
                 img.px-lg-4.pe-4.pe-md-0.m-auto(src='@/assets/curso/temas/t1/ico1.svg' alt='' style="max-width: 155px;")
               .col-md-10
-                p Implementar acciones de reducción de residuos basadas en la metodología Lean genera algunos beneficios:
+                p Implementar acciones de reducción de residuos basadas en la metodología #[em Lean] genera algunos beneficios:
                 ul.lista-ul--color.color-azul
                   li.mb-1 
                     i.fas.fa-circle
